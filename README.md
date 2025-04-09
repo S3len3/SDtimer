@@ -1,7 +1,7 @@
 # SDtimer
 Shutdown scheduler for Linux
 
-1. Download: Save shutdown_timer to your Desktop or Downloads folder.
+1. Download: Save shutdown_timer https://github.com/S3len3/SDtimer/releases to your Desktop or Downloads folder.
 2. Make Executable:
         Right-click shutdown_timer in the file manager.
         Active the option "executable program" or similar.
